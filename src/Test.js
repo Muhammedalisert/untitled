@@ -1,8 +1,9 @@
 function Test(){
     return(
-        <div>
-            test component
+        <div className="App1">
+            Test Component
         </div>
     )
 }
+
 export default Test
